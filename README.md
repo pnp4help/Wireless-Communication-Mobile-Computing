@@ -1,7 +1,7 @@
 # WCMC : Wireless Communication & Mobile Computing
 * For Demo/Education Reference Only.
 
-Software Required: 1. Android Studio Download 2. Genymotion Android Emulator
+Software Required: 1. Android Studio 2. Genymotion Android Emulator
 ---------------------------------------------------------------------------------------------------------------------------------------
 PR1_BlankActivity.zip
 ---------------------------------------------------------------------------------------------------------------------------------------
